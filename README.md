@@ -16,3 +16,11 @@ Guided project **DB II** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor explores schema design with this API.
+
+## Files with Notes:
+
+- ./knexfile.js
+- ./fruits-router.js
+- ./data/db-config.js
+- ./data/migrations/\*
+- ./data/seeds/\*
